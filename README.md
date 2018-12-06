@@ -55,10 +55,13 @@ Pane > Add Spectogram > Channel 1
 
 ## NORMAL ZIP
 Initial recon of the zip file
+
 ![](https://lh3.googleusercontent.com/JtAmXCXOTrYH-tijb__TRZKRU9a046cWNPtvhTtF1Bs4MtlOb9QC9XWZWNSNYk-UoIMOxzCM0akO1GwP-t4PwgLkhmvNckUyhPKhH2ZRO34U1VxZ9Ad8sDEZkYO3mVmWJ-YKGKMfT6Y)
 
 Download a CRC32 cracker
+
 ![](https://lh3.googleusercontent.com/0fHk4HR9-l7JQstDgXnp882bmGiPPmH4uN-rDOKTYwmg0rYNcv2Zp1awv7C3cUWfrBPXWia4P3VNGpepCI5P1hiDLAQ5-1LJaF8s0t_cHuqwNASd2zkjPg1BC6DgqHA4Hb3yEbvYvgo)
 
 Extract flag in the correct order
+
 ![](https://lh4.googleusercontent.com/3sBQq8Q6t0R0PMvr5mLHXThAd64N4qdxy-ilmJgeRB2tp6h6-DE4JqEbtvI7BBt0yOsI5uEM8GEiXslssCZ3mTT2Jm0mFLYb-mMCUOwsUzTBhfFO-wneYwndlMVJl9oSGSDd48DOSYE)
